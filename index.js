@@ -1,3 +1,5 @@
+require("dotenv").config();
+
 console.log("its woorking");
 
 const express = require("express");
